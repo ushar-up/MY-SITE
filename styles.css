@@ -1,0 +1,107 @@
+  body {
+  font-family: 'Josefin Slab', serif;
+  font-style: normal;
+  font-weight:normal;
+  text-align: center;
+  text-decoration: inherit;
+  text-transform: capitalize;
+margin: 0
+}
+
+h1 {
+  font-size: 1.7rem;
+  margin: 50px auto 0 auto;
+  border: 0px;
+  padding-top: 5px;
+}
+
+h4{
+  font-size: .98rem;
+  border: 1px;
+  padding: .5px;
+  margin-top: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+  color: #11999E;
+}
+p{
+ font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  color:#343F56;
+}
+.TOP-CONTAINER {
+background-color: #E4F9F5;
+  margin-top: 0.25%;
+  padding-top: 11px;
+  border: 0px;
+  bottom: 0
+}
+.mountain{
+  position:relative;
+  background-position: center;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+#cloud {
+  position:absolute;
+  left:260px;
+  top: 140px;
+  padding-left: 90px;
+}
+
+#cloudy {
+  position:relative;
+  bottom: 270px;
+  padding-left: 190px;
+}
+
+#cld {
+  position: absolute;
+  left: 230px;
+  top: 270px;
+}
+.middle-container{
+  background-color: #94D0CC;
+  padding-top:20px;
+  margin-top: 0;
+  border-top: 0;
+}
+.gorila{
+
+  padding: 13px;
+  border-top: 10px;
+
+  background-color: #CAF7E3;
+
+border-color:  #0A1931;
+  border-radius: 50%;
+}
+.chili{
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+
+  background-color:#7D1A24;
+  border-radius: 30%;
+}
+
+.skills{
+  background-color: #d26c6c;
+color: #190B0B;
+
+}
+
+.skill-row{
+  background-color: #EBCFC4;
+}
+.contact-me{
+  background-color:#D2FAFB;
+}
+.btn{
+  color: #580d0d;
+}
+.footer-link{
+  color: #405963;
+}
